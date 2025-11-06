@@ -13,7 +13,7 @@ export default function Navbar() {
         </div>
         <nav className="flex items-center gap-3">
           <a href="#features" className="text-sm md:text-base text-gray-300 hover:text-white transition-colors px-3 py-2 rounded-lg hover:bg-white/5">Features</a>
-          <a href="#pricing" className="text-sm md:text-base text-gray-300 hover:text-white transition-colors px-3 py-2 rounded-lg hover:bg-white/5">Pricing</a>
+          <a href="#features" className="text-sm md:text-base text-gray-300 hover:text-white transition-colors px-3 py-2 rounded-lg hover:bg-white/5">Integrations</a>
           <a href="#login" className="hidden sm:inline-flex items-center gap-2 text-gray-200 hover:text-white transition-colors px-3 py-2 rounded-lg hover:bg-white/5">
             <LogIn className="h-4 w-4" />
             Login

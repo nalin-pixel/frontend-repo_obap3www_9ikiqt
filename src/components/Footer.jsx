@@ -7,7 +7,7 @@ export default function Footer() {
         <div className="flex flex-col md:flex-row items-center justify-between gap-6">
           <div className="text-center md:text-left">
             <p className="text-white font-semibold">AdVision</p>
-            <p className="text-sm text-gray-400">Create smarter ads, faster.</p>
+            <p className="text-sm text-gray-400">Create smarter ads, faster — free forever.</p>
           </div>
           <div className="flex items-center gap-6 text-sm text-gray-400">
             <a href="#privacy" className="hover:text-white">Privacy</a>

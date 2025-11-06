@@ -1,8 +1,8 @@
 import React from 'react';
 import Navbar from './components/Navbar';
 import Hero from './components/Hero';
-import Features from './components/Features';
-import Pricing from './components/Pricing';
+import Integrations from './components/Integrations';
+import Showcase from './components/Showcase';
 import Footer from './components/Footer';
 
 export default function App() {
@@ -10,8 +10,8 @@ export default function App() {
     <div className="min-h-screen bg-black text-white selection:bg-fuchsia-500/30 selection:text-white">
       <Navbar />
       <Hero />
-      <Features />
-      <Pricing />
+      <Integrations />
+      <Showcase />
       <Footer />
     </div>
   );
